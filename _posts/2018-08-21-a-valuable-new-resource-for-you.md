@@ -17,7 +17,7 @@ youtube_code: Ylq_wLYP3g4
 
 {% include youtube.html %}
 
-Want to sell your home? <a href="https://www.everycornerrealty.com/home-valuation/" target="_blank">Get a FREE home value report</a><br>Want to buy a home? <a href="https://www.everycornerrealty.com/results-map/" target="_blank">Search all homes for sale</a>
+<p style="text-align: center;"><em>Want to sell your home? <a href="https://www.everycornerrealty.com/home-valuation/" target="_blank">Get a FREE home value report</a><br>Want to buy a home? <a href="https://www.everycornerrealty.com/results-map/" target="_blank">Search all homes for sale</a></em></p>
 
 I’d like to welcome you to my new video blog.
 
