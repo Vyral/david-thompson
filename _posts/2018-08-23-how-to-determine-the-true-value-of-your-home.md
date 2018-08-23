@@ -21,7 +21,7 @@ youtube_code: ihHA6zIuDqY
 
 {% include youtube.html %}
 
-Don’t take Zillow’s word as law when it comes to your home’s value. Here’s what you need to know in order to find out what your home is worth.
+<p style="text-align: center;"><em>Don’t take Zillow’s word as law when it comes to your home’s value. Here’s what you need to know in order to find out what your home is worth.</em></p>
 
 Everybody knows that you can get an instant value for your home online. But how accurate are these online estimates? That’s what we’re going to look at today.
 
