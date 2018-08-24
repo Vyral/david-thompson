@@ -19,7 +19,7 @@ youtube_code: aRDliptAkqw
 
 {% include youtube.html %}
 
-Selling a home requires energy, planning, and avoiding simple mistakes. Here are three such mistakes that you need to steer clear of.
+<p style="text-aign: center:"><em>Selling a home requires energy, planning, and avoiding simple mistakes. Here are three such mistakes that you need to steer clear of.</em></p>
 
 **Here are three big mistakes that home sellers tend to make and how you can avoid them:**
 
