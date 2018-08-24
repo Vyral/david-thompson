@@ -19,7 +19,7 @@ youtube_code: grILxsuta0M
 
 {% include youtube.html %}
 
-When you apply for a loan, there are several important factors that you need to know about.
+<p style="text-align: center;"><em>When you apply for a loan, there are several important factors that you need to know about.</em></p>
 
 If you’re applying for a mortgage loan, there are a few factors you need to be aware of that will impact your ability to secure that loan.&nbsp;
 
