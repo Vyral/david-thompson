@@ -21,7 +21,7 @@ youtube_code: RBYGHQxO4UI
 
 {% include youtube.html %}
 
-If you’re thinking of buying a home, you should find these four tips on negotiating a successful transaction.
+<p style="text-align: center;"><em>If you’re thinking of buying a home, you should find these four tips on negotiating a successful transaction.</em></p>
 
 Are you planning to buy a home in the near future? If so, then you’ll want to check out the following tips for successfully negotiating a transaction:
 
