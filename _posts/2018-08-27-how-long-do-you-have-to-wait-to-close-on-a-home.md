@@ -19,7 +19,7 @@ youtube_code: m7QO9QIp3KA
 
 {% include youtube.html %}
 
-The length of the home buying process depends on your situation and what your needs are.
+<p style="text-align: center;"><em>The length of the home buying process depends on your situation and what your needs are.</em></p>
 
 People ask me all the time, “Dave, how long does the home buying process take?” It all depends on what your situation is and what your needs are. If you’re getting financing, it will typically take longer to buy a home with a government loan than it will with a conventional loan.
 
