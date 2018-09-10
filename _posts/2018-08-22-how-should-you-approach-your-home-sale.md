@@ -20,7 +20,7 @@ youtube_code: rZwqsLvIsvI
 
 {% include youtube.html %}
 
-Thinking about selling your home? Here are five tips for success during the process.
+<p style="text-align: center;"><em>Thinking about selling your home? Here are five tips for success during the process.</em></p>
 
 If you’re thinking about selling your home any time in the near future, here are the steps you need to take in order to have a smooth and successful closing:
 
