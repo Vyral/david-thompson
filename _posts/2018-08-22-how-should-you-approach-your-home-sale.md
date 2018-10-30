@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Should You Approach Your Home Sale?
-date: 2018-010-29 00:02:30
+date: 2018-10-29 00:02:30
 tags:
 excerpt: >-
   Thinking about selling your home? Here are five tips for success during the
