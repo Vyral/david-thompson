@@ -21,7 +21,7 @@ youtube_code: p0Sh6J1LfGk
 
 {% include youtube.html %}
 
-Many people shun the idea of selling their home in the fall and winter. That could be a mistake.
+<p style="text-align: center;"><em>Many people shun the idea of selling their home in the fall and winter. That could be a mistake.</em></p>
 
 In my 28 years of selling real estate, one of the most common things I hear from clients is that they’d rather not sell their home in the fall or winter. Most of them want to put it on the market in the spring.
 
