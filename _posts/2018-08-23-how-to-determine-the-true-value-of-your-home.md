@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Determine the True Value of Your Home
-date: 2018-08-23 21:05:01
+date: 2018-12-10 21:05:01
 tags:
   - Home Buyer Tips
 excerpt: >-
